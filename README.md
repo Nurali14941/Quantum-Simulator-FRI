@@ -7,4 +7,4 @@ The Link to the presentation given: https://docs.google.com/presentation/d/1PQq5
 
 The source of the Quantum Simulator code: https://github.com/DinglyCoder/Quantum-Computer-Sim/blob/main/Quantum_FRI_Quantum_Sim_Project.ipynb
 
-My contribution to the project: 'copy paste the colab code'
+My contribution to the project: (https://github.com/Nurali14941/Quantum-Simulator-FRI/blob/main/Statevector%20%2B%20CNOT%20code.ipynb)
